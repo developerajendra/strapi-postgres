@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "samreshes",
+  "info": {
+    "singularName": "samresh",
+    "pluralName": "samreshes",
+    "displayName": "samresh"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
